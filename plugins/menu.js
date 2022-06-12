@@ -52,7 +52,7 @@ Hai, %ucapan %name! 👋
   header: ' *%category*',
   body: ' • %cmd %islimit %isPremium',
   footer: '\n',
-  after: `*Made by ♡*
+  after: `*𝚁𝙸𝙴𝙻𝙱𝙾𝚃𝚉 𝙱𝚢 𝚛𝚒𝚎𝚕㋛︎*
 *%npmname* | %version
 ${'```%npmdesc```'}
 `,
@@ -174,22 +174,22 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
                             hydratedFooterText:'Ⓟ premium | Ⓛ limit',
                             hydratedButtons: [{
                                 urlButton: {
-                                    displayText: 'Website',
-                                    url: 'https://Ainebot.github.io/'
+                                    displayText: '𝐖𝐄𝐁𝐒𝐈𝐓𝐄🐤',
+                                    url: 'https://Rielbotz.github.io/'
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'Donasi',
+                                    displayText: '𝐃𝐎𝐍𝐀𝐒𝐈 𝐍𝐆𝐀𝐁🏮',
                                     id: '/donasi'
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'Sewa',
+                                    displayText: '𝐒𝐄𝐖𝐀 𝐁𝐎𝐓 𝐁𝐀𝐍𝐇🐼',
                                     id: '/sewa'
                                 }  
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'Owner',
+                                    displayText: '𝐈𝐍𝐈 𝐎𝐖𝐍𝐄𝐑 𝐂𝐔𝐘🗿',
                                     id: '/owner'
                                 }
                             }]
